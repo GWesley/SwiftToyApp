@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c05663b5ead44c81ae687810f63254da"
+build_time: [535112051, 990344000]
+inputs:
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectThread-2.0.3/Sources/Threading.swift": [535112037, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectThread-2.0.3/Sources/ThreadQueue.swift": [535112037, 0]

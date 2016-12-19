@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8814c45000deec486fc24d204901863a"
+build_time: [535112051, 990343000]
+inputs:
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/Bytes.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/Dir.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/File.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/JSONConvertible.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/Log.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/PerfectError.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/PerfectServer.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/SwiftCompatibility.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/SysProcess.swift": [535111984, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectLib-2.0.4/Sources/PerfectLib/Utilities.swift": [535111984, 0]

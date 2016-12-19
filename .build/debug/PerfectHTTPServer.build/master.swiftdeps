@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0884521347123698b083a4d65765be10"
+build_time: [535112061, 472015000]
+inputs:
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HPACK.swift": [535111966, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTP11Request.swift": [535111972, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTP11Response.swift": [535111966, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTP2.swift": [535111966, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTPServer.swift": [535111972, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTPServerEx.swift": [535111972, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTPServer-2.0.8/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [535111966, 0]

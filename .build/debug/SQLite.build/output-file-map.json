@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SQLite.build/master.swiftdeps"
+  },
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/SQLite-2.0.1/Sources/SQLite/SQLite.swift": {
+    "dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SQLite.build/SQLite.d",
+    "object": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SQLite.build/SQLite.swift.o",
+    "swiftmodule": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SQLite.build/SQLite~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SQLite.build/SQLite.swiftdeps"
+  }
+}

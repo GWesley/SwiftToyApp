@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/master.swiftdeps"
+  },
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/arguments.swift": {
+    "dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/arguments.d",
+    "object": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/arguments.swift.o",
+    "swiftmodule": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/arguments~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/arguments.swiftdeps"
+  },
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/main.swift": {
+    "dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/main.d",
+    "object": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/main.swift.o",
+    "swiftmodule": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/main.swiftdeps"
+  },
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/RoutingHandlers.swift": {
+    "dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/RoutingHandlers.d",
+    "object": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/RoutingHandlers.swift.o",
+    "swiftmodule": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/RoutingHandlers~partial.swiftmodule",
+    "swift-dependencies": "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/.build/debug/SwiftToyApp.build/RoutingHandlers.swiftdeps"
+  }
+}

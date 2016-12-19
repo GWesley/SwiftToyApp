@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d04701bdb46f59a2496f67eecb5e38ca"
+build_time: [535112060, 321320000]
+inputs:
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/HTTPFilter.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/HTTPHeaders.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/HTTPMethod.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/HTTPRequest.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/HTTPResponse.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/MimeReader.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/MimeType.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/Routing.swift": [535111976, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Packages/PerfectHTTP-2.0.7/Sources/StaticFileHandler.swift": [535111976, 0]

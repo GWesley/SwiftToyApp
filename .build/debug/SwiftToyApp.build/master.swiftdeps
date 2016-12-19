@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "479c007f9a7fa0ab7d0d23cd4e870629"
+build_time: [535430736, 411625000]
+inputs:
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/arguments.swift": [535111919, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/main.swift": [535171576, 0]
+  "/Users/zhangzhiyong-pd/Projects/SwiftToyApp/Sources/RoutingHandlers.swift": [535199172, 0]
